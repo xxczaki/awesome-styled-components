@@ -148,6 +148,7 @@
 * [react-boilerplate](https://github.com/mxstbr/react-boilerplate) - Highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
 * [ARc](https://github.com/diegohaz/arc) - Atomic React App boilerplate.
 * [react-redux-styled-hot-universal](https://github.com/krasevych/react-redux-styled-hot-universal) - SSR, Universal Webpack, Redux, React-router, Babel, Styled Components and more.
+* [styled-react-boilerplate](https://github.com/xxczaki/styled-react-boilerplate) - Modern & minimal boilerplate for building apps with React and Styled Components.
 
 
 ---
